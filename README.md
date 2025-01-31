@@ -1,6 +1,6 @@
-# 🚀 Flavour Fly - A Dynamic Food Ordering Platform
+# 🚀 Recipe finder - A Dynamic Food Ordering Platform
 
-I'm thrilled to unveil my first React App, "Flavour Fly"! 🎉 It's more than a Swiggy clone; it's a dynamic food ordering platform where I explored the depths of development. 💻 This project was a true learning journey for me as a newcomer!
+I'm thrilled to unveil my first React App, "Recipe finder"! 🎉 It's more than a Swiggy clone; it's a dynamic food ordering platform where I explored the depths of development. 💻 This project was a true learning journey for me as a newcomer!
 
 ## 🛠️ Tech Stack:
 
@@ -22,7 +22,7 @@ I'm thrilled to unveil my first React App, "Flavour Fly"! 🎉 It's more than a 
 
 ## 📚 Learnings & Gratitude:
 
-From React.createElement to Redux-toolkit, this journey taught me invaluable lessons. 📚 Huge thanks to Akshay Saini 🚀 for his insightful "Namaste React" course, covering advanced topics with live projects. Highly recommend! 👍
+From React.createElement to Redux-toolkit, this journey taught me invaluable lessons. 
 
 ### Topics Covered:
 
@@ -46,6 +46,6 @@ From React.createElement to Redux-toolkit, this journey taught me invaluable les
 - 🔹 Context Provider and Context Consumer
 - 🔹 Redux-Toolkit
 
-I welcome any suggestions or features to make "Flavour Fly" even better! Feel free to share your thoughts.
+I welcome any suggestions or features to make "Recipe finder" even better! Feel free to share your thoughts.
 
-#ReactLearning #NamasteReact #Gratitude #WebDev #ReactJS #TechStack #AppDevelopment
+#ReactLearning #Gratitude #WebDev #ReactJS #TechStack #AppDevelopment
